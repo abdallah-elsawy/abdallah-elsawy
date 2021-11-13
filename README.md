@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abdallah-elsawy
 
-- 👀 I’m interested in data analysis, work now on Upwork as freelancer data analyst 
+- 👀 I’m interested in data science, work now on Upwork as freelancer data scientist 
 with expertise in automating data pipelines from compilation to wrangling, then analyzing, visualizing, and then delivering automated reports.
 Using programming languages such as Python, R, SQL to analyses complex datasets to gain insight and address questions that are essential for business solutions.
 As well as expressing them in an effective way by visualization using Tableau.
