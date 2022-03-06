@@ -9,7 +9,7 @@ I have knowledge also in mobile communication include 2G , 3G and 4G.
 Skills: Python, R, Excel, SQL, Statistics, Tableau.
 
 
-- 📫 How to reach me [![Linkedin](https://img.shields.io/badge/LinkedIn-informational?style=flat&logo=linkedin&logoColor=white&color=0A66C2) ](www.linkedin.com/in/abdallah-el-sawy)
+- 📫 How to reach me [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/abdallah-el-sawy/)
 
 
 <!---
