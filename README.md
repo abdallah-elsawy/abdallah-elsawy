@@ -19,7 +19,9 @@ Here are some of the programming languages, frameworks, and tools that I'm profi
 - OpenCV
 - Scikit-Learn
 - SQL
-- MongoDB
+- C++
+- c
+- MATLAB
 - Git
 - Linux
 - AWS
